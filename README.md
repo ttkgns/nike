@@ -27,8 +27,8 @@ To run the project locally:
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/nikesimple.git
-cd nikesimple
+git clone https://github.com/ttkgns/nike.git
+cd nike
 
 # Install dependencies
 npm install
