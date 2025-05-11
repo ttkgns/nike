@@ -6,6 +6,8 @@ A clean and modern Nike-themed landing page built with **React**, **Vite**, **Ta
 
 Check out the live site: [https://nikesimple.netlify.app/](https://nikesimple.netlify.app/)
 
+![Nike Demo](https://raw.githubusercontent.com/ttkgns/nike/main/public/nike-demo.png)
+
 ## ✨ Features
 
 - ⚡️ Built with Vite for fast development and build
